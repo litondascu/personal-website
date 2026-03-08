@@ -1,28 +1,37 @@
-PERSONAL WEBSITE - FREE STARTER TEMPLATE
+POLASH ENTERPRISE WEBSITE
 
-Files:
+Files included:
 - index.html
-- style.css
+- styles.css
 - script.js
 
-How to use:
-1. Open index.html in any browser to preview.
-2. Replace 'Your Name', email, phone, city, and all placeholder text with your real data.
-3. Upload these files to any free hosting service:
-   - GitHub Pages
-   - Netlify
-   - Vercel
+HOW TO MAKE IT ONLINE FOR FREE
+1. Create a GitHub account if you do not have one.
+2. Create a new repository, for example: polash-enterprise
+3. Upload these 3 files to the repository.
+4. Go to Settings > Pages
+5. Under Source, select "Deploy from a branch"
+6. Choose branch: main and folder: /root
+7. Save
+8. Your website link will appear in GitHub Pages
 
-Fastest free method with GitHub Pages:
-1. Create a free GitHub account.
-2. Create a new repository, for example: personal-website
-3. Upload index.html, style.css, and script.js
-4. Go to repository Settings > Pages
-5. Under 'Deploy from a branch', choose main branch and /root
-6. Save, then your website will be live for free
+IMPORTANT
+- This website is fully working for product display, search, cart and order request.
+- Real online card payment needs payment gateway setup such as Stripe, PayPal or SSLCommerz.
+- For Bangladesh, SSLCommerz is often suitable.
+- After you buy or create a payment gateway account, keys can be connected to this website.
 
-If you want, I can next make:
-- a version with YOUR real information filled in
-- a job CV style website
-- a student portfolio website
-- a business website
+CUSTOMIZE PRODUCTS
+Open script.js and edit:
+- name
+- category
+- price
+- discount
+- stock
+
+CHANGE SHOP DETAILS
+Open index.html and change:
+- business name
+- phone
+- address
+
